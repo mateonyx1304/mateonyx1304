@@ -8,7 +8,7 @@ Soy desarrollador en formación enfocado en **Frontend**, con proyección a **Ba
 
 - 📍 Ubicación: La Estrella, Antioquia - Colombia  
 - 🎓 Estudiante de ADSO (Análisis y Desarrollo de Software) en el SENA  
-- 💻 Formación en Platzi (HTML, CSS, Git y GitHub, Programación básica)  
+- 💻 Formación en Platzi (HTML, CSS, JavaScript, Git y GitHub, Programación básica)  
 - 🌱 Actualmente aprendiendo: JavaScript y manipulación del DOM  
 - 🧠 Inglés: Nivel B2 (en progreso)  
 
