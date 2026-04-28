@@ -10,7 +10,7 @@ Soy desarrollador en formación enfocado en **Frontend**, con proyección a **Ba
 - 🎓 Estudiante de ADSO (Análisis y Desarrollo de Software) en el SENA  
 - 💻 Formación en Platzi (HTML, CSS, JavaScript, Git y GitHub, Programación básica)  
 - 🌱 Actualmente aprendiendo: JavaScript y manipulación del DOM  
-- 🧠 Inglés: Nivel B2 (en progreso)  
+- 🧠 Inglés: Nivel B1 (en progreso)  
 
 ---
 
